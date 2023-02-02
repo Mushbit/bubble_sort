@@ -34,4 +34,4 @@ until numbers[numbers.length - 1] == "run"
 end
 numbers.pop
 numbers.map!(&:to_i)
-p bubble_sort(numbers)
+ p bubble_sort(numbers)
