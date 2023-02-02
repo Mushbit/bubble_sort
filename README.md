@@ -1,5 +1,5 @@
 # bubble_sort
-Sorts integers in numarical fashion
+Sorts integers in numerical fashion
 
 # Use case
 - Sorting numbers numerically
@@ -9,6 +9,6 @@ Sorts integers in numarical fashion
 - First time finding a use for a "loop...do" loop in order to no have to nest loops
 
 # Acknowledgments
-- The comunity behind "The Odin Project"
+- The community behind "The Odin Project"
 
 
